@@ -1,0 +1,65 @@
+header{
+    display: flex;
+}
+.imagen1{
+
+    background-color: #990134;
+    height: 810px;
+
+
+}
+
+.divMedio1{
+    background-color: gray;
+    text-align: center;
+
+}
+.btn-Search{
+    background-color: white;
+    color:  #252621;
+    width: 200px;
+    height: 50px;
+}
+
+
+
+.divimagencentro{
+
+
+}
+
+
+
+
+.divShirt{
+    background-color:#990134;
+    text-align: center;
+}
+
+.navContenido{
+    
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+
+
+}
+
+.compra{
+
+    background-color: #990134;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+
+.buttonCheckout{
+
+    background-color: #990134;
+    color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 200px;
+    height: 90px;
+}
